@@ -1,0 +1,10 @@
+# Ignorar archivos temporales
+*.tmp
+*.log
+
+# Ignorar backups
+*.bak
+
+# Ignorar archivos de usuario
+Thumbs.db
+.DS_Store
