@@ -1,117 +1,175 @@
-# Windows-Multitool
+
+### **🇬🇧 English Tutorial: How to Use Windows Ultimate Optimizer 0.7 BETA**
+
+#### **📥 Step 1: Download the Script**
+1. **Recommended Method (GitHub):**
+   - Open **Command Prompt** (CMD) or **Git Bash**
+   - Run:
+     ```bash
+     https://github.com/adrianoprogramer/Windows-Multitool-Beta-0.7
+     cd Windows-Ultimate-Optimizer/src
+     ```
+
+2. **Alternative Method:**
+   - Download the `.bat` file directly from GitHub Releases
+   - Save it to an easy-to-access folder (e.g., `C:\Optimizer`)
+
+#### **🚀 Step 2: Run the Script**
+1. Right-click on `Windows_Ultimate_Optimizer_0.7_BETA.bat`
+2. Select **"Run as administrator"** (Essential!)
+3. If blocked by Windows Defender:
+   - Click "More info" → "Run anyway"
+
+#### **🌐 Step 3: Language Selection**
+```
+============================================
+   silkspectre0 Optimizer — Select Language
+============================================
+1 • English
+2 • Español
+```
+- Press **1** for English
+
+#### **🎮 Step 4: Main Menu Navigation**
+```
+===== Main Menu – Beta v0.7 =====
+1 • Basic Tweaks
+2 • Gaming Mode
+3 • Defender Scan + SFC
+4 • Autorun + Defender Off
+5 • Interactive Menu
+6 • Activation & Tweaks
+7 • Advanced Options
+8 • Advanced Gaming Mode
+9 • GitHub Login Status
+A • GitHub Login
+B • Generate README
+C • Office Activation Tool
+0 • Exit
+```
+
+#### **🔧 Key Functions Explained**
+1. **Basic Optimization (Option 1):**
+   - Disables Microsoft telemetry
+   - Cleans temporary files
+   - Optimizes Windows services
+
+2. **Gaming Mode (Option 2 or 8):**
+   - Option 2: Basic gaming optimizations
+   - Option 8: Advanced GPU and network tweaks
+
+3. **Office Activation (Option C):**
+   - Select option C → Choose:
+     ```
+     1. Activate Office with Ohook
+     2. Uninstall Ohook
+     3. Check activation status
+     ```
+   - Follow on-screen instructions
+
+4. **System Cleaning (Option 5 → Interactive Menu):**
+   - Flushes DNS cache
+   - Deletes temporary files
+   - Runs full Defender scan
+
+5. **Hardware Tweaks (Option 7):**
+   - Change PC name
+   - Adjust mouse sensitivity
+   - Modify keyboard repeat rate
+
+#### **⚠️ Important Notes**
+- Always create a **restore point** before making changes
+- Internet required for Office activation and GitHub features
+- Some changes require system restart
 
 ---
 
-## **📌 English Description**  
+### **🇪🇸 Tutorial en Español: Cómo Usar Windows Ultimate Optimizer 0.7 BETA**
 
-### **🚀 Windows Ultimate Optimizer 0.7 BETA**  
-**The Ultimate All-in-One Windows Optimization & Activation Toolkit**  
+#### **📥 Paso 1: Descargar el Script**
+1. **Método Recomendado (GitHub):**
+   - Abre **Símbolo del sistema** (CMD) o **Git Bash**
+   - Ejecuta:
+     ```bash
+     git clone https://github.com/adrianoprogramer/Windows-Multitool-Beta-0.7
+     cd Windows-Ultimate-Optimizer/src
+     ```
 
-A powerful, multi-language (English/Spanish) **Batch script** designed to **optimize, clean, and enhance** Windows 10/11 performance while offering **one-click Microsoft Office activation** via Ohook.  
+2. **Método Alternativo:**
+   - Descarga el archivo `.bat` desde GitHub Releases
+   - Guárdalo en una carpeta accesible (ej. `C:\Optimizador`)
 
-Built for **gamers, power users, and IT admins**, this tool combines **system tweaks, gaming optimizations, privacy controls, and Office activation** in a single, easy-to-use interface.  
+#### **🚀 Paso 2: Ejecutar el Script**
+1. Haz clic derecho en `Windows_Ultimate_Optimizer_0.7_BETA.bat`
+2. Selecciona **"Ejecutar como administrador"** (¡Esencial!)
+3. Si Windows Defender lo bloquea:
+   - Haz clic en "Más información" → "Ejecutar de todas formas"
 
-### **🔧 Key Features**  
+#### **🌐 Paso 3: Selección de Idioma**
+```
+============================================
+   Optimizador silkspectre0 — Elegir Idioma
+============================================
+1 • English
+2 • Español
+```
+- Presiona **2** para Español
 
-#### **⚙️ System Optimization**  
-✅ **Disable Telemetry & Data Collection** (Microsoft tracking)  
-✅ **Optimize Services** (Disable unnecessary background processes)  
-✅ **UAC & Defender Control** (Tweak security settings for performance)  
-✅ **Autorun Management** (Add/remove script from startup)  
+#### **🎮 Paso 4: Menú Principal**
+```
+===== Menú Principal – Beta v0.7 =====
+1 • Ajustes básicos
+2 • Modo Gaming
+3 • Escaneo Defender + SFC
+4 • Autoarranque + Defender Off
+5 • Menú interactivo
+6 • Activaciones y ajustes
+7 • Opciones avanzadas
+8 • Modo Gaming Avanzado
+9 • Estado GitHub Login
+A • Iniciar sesión en GitHub
+B • Generar README
+C • Activador de Office
+0 • Salir
+```
 
-#### **🎮 Gaming Mode**  
-🔥 **GPU Priority Tweaks** (Better FPS in games)  
-🔥 **Disable Game Bar & SysMain** (Reduces input lag)  
-🔥 **Network Throttling Fix** (Optimized for online gaming)  
+#### **🔧 Funciones Clave Explicadas**
+1. **Optimización Básica (Opción 1):**
+   - Desactiva telemetría de Microsoft
+   - Limpia archivos temporales
+   - Optimiza servicios de Windows
 
-#### **🧹 Cleaning Tools**  
-🗑️ **Temp File Cleaner** (Removes junk files)  
-🔄 **DNS Flush** (Fixes internet connectivity issues)  
-🔍 **Defender Full Scan + SFC** (System file checker)  
+2. **Modo Gaming (Opción 2 u 8):**
+   - Opción 2: Optimizaciones básicas para juegos
+   - Opción 8: Ajustes avanzados de GPU y red
 
-#### **💻 Office Activation (Ohook)**  
-🔑 **Activate Office 2016/2019/2021** (Permanently, no crack)  
-🔄 **Check Activation Status** (Verify license)  
-🚫 **Uninstall Option** (Revert changes safely)  
+3. **Activación de Office (Opción C):**
+   - Selecciona C → Elige:
+     ```
+     1. Activar Office con Ohook
+     2. Desinstalar Ohook
+     3. Verificar activación
+     ```
+   - Sigue las instrucciones
 
-#### **🌐 Multi-Language Support**  
-📌 **English & Español** (Auto-detected)  
+4. **Limpieza del Sistema (Opción 5 → Menú Interactivo):**
+   - Limpia cache DNS
+   - Borra archivos temporales
+   - Escaneo completo con Defender
 
-### **⚠️ Important Notes**  
-- **Requires Admin Rights** (Run as Administrator)  
-- **Backup Recommended** (Create a restore point before use)  
-- **Use at Your Own Risk** (For educational purposes)  
+5. **Ajustes de Hardware (Opción 7):**
+   - Cambiar nombre del PC
+   - Ajustar sensibilidad del ratón
+   - Modificar velocidad de repetición del teclado
 
-### **📥 Download & Usage**  
-```bash
-git clone https://github.com/adrianoprogramer/Windows-Multitool-Beta-0.7.git
-cd src
-Windows_Ultimate_Optimizer_0.7_BETA.bat
-```  
-
-### **📜 License**  
-**MIT License** – Free to use, modify, and distribute.  
-
----
-
-## **📌 Descripción en Español**  
-
-### **🚀 Windows Ultimate Optimizer 0.7 BETA**  
-**El Kit Definitivo de Optimización y Activación para Windows**  
-
-Un **script Batch** en **inglés/español** que **optimiza, limpia y mejora** el rendimiento de Windows 10/11, además de incluir **activación de Microsoft Office con Ohook en un clic**.  
-
-Diseñado para **gamers, usuarios avanzados y administradores de TI**, combina **ajustes de sistema, optimización para juegos, controles de privacidad y activación de Office** en una sola herramienta fácil de usar.  
-
-### **🔧 Características Principales**  
-
-#### **⚙️ Optimización del Sistema**  
-✅ **Desactiva Telemetría** (Evita rastreo de Microsoft)  
-✅ **Optimiza Servicios** (Desactiva procesos innecesarios)  
-✅ **Control de UAC y Defender** (Ajustes de seguridad)  
-✅ **Gestión de Autoarranque** (Añade/elimina el script del inicio)  
-
-#### **🎮 Modo Gaming**  
-🔥 **Prioridad de GPU** (Más FPS en juegos)  
-🔥 **Desactiva Game Bar & SysMain** (Reduce input lag)  
-🔥 **Optimización de Red** (Para gaming online)  
-
-#### **🧹 Herramientas de Limpieza**  
-🗑️ **Limpieza de Archivos Temporales** (Elimina basura)  
-🔄 **Flush de DNS** (Mejora la conexión a internet)  
-🔍 **Escaneo Completo con Defender + SFC** (Repara archivos)  
-
-#### **💻 Activación de Office (Ohook)**  
-🔑 **Activa Office 2016/2019/2021** (Sin cracks)  
-🔄 **Verifica Estado de Activación**  
-🚫 **Opción de Desinstalación** (Revierte cambios)  
-
-#### **🌐 Soporte Multi-Idioma**  
-📌 **Inglés y Español** (Detección automática)  
-
-### **⚠️ Notas Importantes**  
-- **Requiere Derechos de Administrador**  
-- **Se Recomienda Backup** (Crea un punto de restauración)  
-- **Úsalo bajo tu Responsabilidad** (Fines educativos)  
-
-### **📥 Descarga y Uso**  
-```bash
-git clone (https://github.com/adrianoprogramer/Windows-Multitool-Beta-0.7.git)
-cd src
-Windows_Ultimate_Optimizer_0.7_BETA.bat
-```  
-
-### **📜 Licencia**  
-**MIT License** – Libre uso, modificación y distribución.  
+#### **⚠️ Notas Importantes**
+- Crea siempre un **punto de restauración** antes de hacer cambios
+- Se requiere internet para activar Office y funciones de GitHub
+- Algunos cambios requieren reiniciar el sistema
 
 ---
 
-### **🎯 ¿Por qué Elegir Este Optimizador?**  
-✔ **Todo en Uno** (Optimización + Activación)  
-✔ **Sin Instalación** (Ejecutable .bat portable)  
-✔ **Seguro** (No modifica archivos críticos sin respaldo)  
-✔ **Open Source** (Transparente y personalizable)  
-
-¡**Potencia tu PC con un solo clic!** ⚡  
-
-🔗 **GitHub Repo:** [https://github.com/adrianoprogramer/Windows-Multitool-Beta-0.7](https://github.com/adrianoprogramer/Windows-Multitool-Beta-0.7)
+### **📌 Additional Tips for Both Versions**
+- For **complete uninstall**: Run option C → 2 (Office) + restore original files
+- The **README generator** (option B) creates a usage guide in your folder
+- **GitHub login** (options 9/A) is optional for advanced users
